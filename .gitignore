@@ -1,0 +1,14 @@
+# Vector stores (large binary files)
+who_vectorstore/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
